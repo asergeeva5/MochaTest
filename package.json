@@ -1,0 +1,19 @@
+{
+  "name": "mocha_tutorial",
+  "version": "1.0.0",
+  "description": "Masik following tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+     "chai" : "^1.9.1"
+  },
+  "author": "Masik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.11.1",
+     "jade": " ~0.29.0"
+  }
+}
